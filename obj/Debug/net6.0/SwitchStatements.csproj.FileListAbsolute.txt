@@ -1,0 +1,15 @@
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.exe
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.deps.json
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.runtimeconfig.json
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.dll
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\bin\Debug\net6.0\SwitchStatements.pdb
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.dll
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\refint\SwitchStatements.dll
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.pdb
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\SwitchStatements.genruntimeconfig.cache
+C:\Users\zecha\Documents\True Coders\repos\SwitchStatements\obj\Debug\net6.0\ref\SwitchStatements.dll
